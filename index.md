@@ -70,6 +70,7 @@ layout: default
 60|西藏七年|1997|让·雅克·阿诺|[Seven Years in Tibet](https://www.imdb.com/title/tt0120102/)
 61|绿帽子|2004|刘奋斗|[Green Hat](https://www.imdb.com/title/tt0416943/)
 62|掩埋|2009|王利波|[Buried](https://www.imdb.com/title/tt4370770/)
+63|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
 {: #movie}
 
 ### 参考资料
