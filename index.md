@@ -72,7 +72,7 @@ layout: default
 62|掩埋|2009|王利波|[Buried](https://www.imdb.com/title/tt4370770/)
 63|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
 64|夹边沟祭事|2017|艾晓明|[iabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
-{: #movie}
+{: #movie .display}
 
 ### 参考资料
 
@@ -99,7 +99,7 @@ layout: default
 13|巨婴国|浙江人民出版社|武志红|9787213076824
 14|大路：高速中国里的工地纪事|广西师范大学出版社|张赞波|9787549573806
 15|天葬：西藏的命运|台湾大块文化出版社|王力雄|9789862131077
-{: #book}
+{: #book .display}
 
 #### 参考资料
 
