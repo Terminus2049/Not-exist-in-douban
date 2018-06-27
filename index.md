@@ -71,7 +71,7 @@ layout: default
 61|绿帽子|2004|刘奋斗|[Green Hat](https://www.imdb.com/title/tt0416943/)
 62|掩埋|2009|王利波|[Buried](https://www.imdb.com/title/tt4370770/)
 63|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
-64|夹边沟祭事|2017|艾晓明|[iabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
+64|夹边沟祭事|2017|艾晓明|[Jiabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
 {: #movie .display}
 
 ### 参考资料
@@ -99,6 +99,8 @@ layout: default
 13|巨婴国|浙江人民出版社|武志红|9787213076824
 14|大路：高速中国里的工地纪事|广西师范大学出版社|张赞波|9787549573806
 15|天葬：西藏的命运|台湾大块文化出版社|王力雄|9789862131077
+16|失落的一代：中国的上山下乡运动·1968-1980（*The Lost Generation: The Rustification of Chinese Youth (1968-1980)*）|中国大百科全书出版社|潘鸣啸[法]/欧阳因 译|9787500082545
+17|我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）|麥田出版|芭芭拉·德米克 Barbara Demick/黃煜文 譯|9789861207896
 {: #book .display}
 
 #### 参考资料
