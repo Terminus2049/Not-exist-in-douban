@@ -72,6 +72,7 @@ layout: default
 62|掩埋|2009|王利波|[Buried](https://www.imdb.com/title/tt4370770/)
 63|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
 64|夹边沟祭事|2017|艾晓明|[Jiabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
+65|南海之后|2016|王男栿|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
 {: #movie .display}
 
 ### 参考资料
