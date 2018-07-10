@@ -103,6 +103,7 @@ layout: default
 16|失落的一代：中国的上山下乡运动·1968-1980（*The Lost Generation: The Rustification of Chinese Youth (1968-1980)*）|中国大百科全书出版社|潘鸣啸[法]/欧阳因 译|9787500082545
 17|我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）|麥田出版|芭芭拉·德米克 Barbara Demick/黃煜文 譯|9789861207896
 18|历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457
+19|大江大海：一九四九|天下雜誌|龍應台|9789862410493
 {: #book .display}
 
 #### 参考资料
