@@ -104,6 +104,8 @@ layout: default
 17|我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）|麥田出版|芭芭拉·德米克 Barbara Demick/黃煜文 譯|9789861207896
 18|历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457
 19|大江大海：一九四九|天下雜誌|龍應台|9789862410493
+20|灵山|联经出版公司|高行健|[9789570836899](https://www.goodreads.com/book/show/14733840)
+21|一个人的圣经（[One Man's Bible](https://book.douban.com/subject/10548707/)）|联经出版公司|高行健|9570819413
 {: #book .display}
 
 #### 参考资料
