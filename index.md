@@ -73,6 +73,8 @@ layout: default
 63|死灵魂|2018|王兵|[Dead Souls](https://www.imdb.com/title/tt8296608/)
 64|夹边沟祭事|2017|艾晓明|[Jiabiangou Elegy: Life and Death of the Rightists](https://www.imdb.com/title/tt7877136/)
 65|南海之后|2016|王男栿|[Hooligan Sparrow](https://www.imdb.com/title/tt4079902/)
+66|寻找林昭的灵魂|2004|徐杰|[In Search of Lin Zhao's Soul](https://www.imdb.com/title/tt6083394/)
+67|穹顶之下|2015|柴静|~~[豆瓣链接隐藏](https://movie.douban.com/subject/26334244/)~~/[Under the Dome](https://www.imdb.com/title/tt4495750/）
 {: #movie .display}
 
 ### 参考资料
