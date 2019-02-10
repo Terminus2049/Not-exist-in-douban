@@ -76,6 +76,7 @@ layout: default
 66|寻找林昭的灵魂|2004|徐杰|[In Search of Lin Zhao's Soul](https://www.imdb.com/title/tt6083394/)
 67|穹顶之下|2015|柴静|[Under the Dome](https://www.imdb.com/title/tt4495750)
 68|我们的青春，在台湾|2018|傅榆|[Our Youth in Taiwan](https://www.imdb.com/title/tt8711506/)
+69|独生子女国度|2019|Zhang Lynn（张嘉玲）, Nanfu Wang（王男栿）|[One Child Nation](https://www.imdb.com/title/tt8923482/）
 {: #movie .display}
 
 ### 参考资料
