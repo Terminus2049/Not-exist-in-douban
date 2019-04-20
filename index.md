@@ -78,6 +78,7 @@ layout: default
 68|我们的青春，在台湾|2018|傅榆|[Our Youth in Taiwan](https://www.imdb.com/title/tt8711506/)
 69|独生子女国度|2019|Zhang Lynn（张嘉玲）, Nanfu Wang（王男栿）|[One Child Nation](https://www.imdb.com/title/tt8923482/)
 70|公民哈维尔|2008|Miroslav Janek|[Obcan Havel(Citizen Havel)](https://www.imdb.com/title/tt0843329/)
+71|中美共同体|2019|Channel 4 Television Corporation|[Chimerica](https://www.imdb.com/title/tt7948996)
 {: #movie .display}
 
 ### 参考资料
