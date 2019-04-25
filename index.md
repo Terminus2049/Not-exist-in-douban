@@ -113,7 +113,7 @@ layout: default
 19|大江大海：一九四九|天下雜誌|龍應台|9789862410493
 20|灵山|联经出版公司|高行健|[9789570836899](https://www.goodreads.com/book/show/14733840)
 21|一个人的圣经（[One Man's Bible](https://book.douban.com/subject/10548707/)）|联经出版公司|高行健|9570819413
-22|丁庄梦|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
+22|[丁庄梦](https://www.goodreads.com/book/show/20869383)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 23|软埋|人民文学出版社|方方|[7020116140](https://www.goodreads.com/book/show/35414562)
 {: #book .display}
 
