@@ -115,7 +115,6 @@ layout: default
 21|一个人的圣经（[One Man's Bible](https://book.douban.com/subject/10548707/)）|联经出版公司|高行健|9570819413
 22|[丁庄梦](https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=)|上海文艺出版社|阎连科|[7532129489](https://www.goodreads.com/book/show/20869383)
 23|软埋|人民文学出版社|方方|[7020116140](https://www.goodreads.com/book/show/35414562)
-{: #book .display}
 24|我的西域，你的東土|大塊文化|王力雄|[9789862130117](https://www.goodreads.com/book/show/7906957)
 25|大典|大塊文化|王力雄|[9789862138458](https://www.goodreads.com/book/show/37460186)
 26|黃禍|大塊文化|王力雄|[9789862138502](https://www.goodreads.com/book/show/39837383)
@@ -143,7 +142,7 @@ layout: default
 48|東突厥斯坦：維吾爾人的真實世界|前衛|霍爾．唐日塔格（HÜR TANGRITAGH）|9789578018075
 49|東突厥斯坦獨立運動：1930年代至1940年代|香港中文大學出版社|王柯|9789629965006
 50|她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
-
+{: #book .display}
 
 
 
