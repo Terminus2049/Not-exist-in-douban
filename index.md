@@ -6,9 +6,9 @@ layout: default
 
 #### （收录说明：已删除/非登录不可见/不收录）
 
-### 电影
+### 电影/电视剧
 
-编号|电影|年代|导演|IMDB
+编号|电影/电视剧|年代|导演|IMDB
 ---|---|---|---|---
 1|出租车司机|2017|张勋|[A Taxi Driver](https://www.imdb.com/title/tt6878038/)
 2|1987：黎明到来的那一天|2017|Joon-Hwan Jang|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
