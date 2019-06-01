@@ -11,8 +11,7 @@ layout: default
 编号|名字|演唱者（表演者）|发行时间|状态
 ---|---|---|---|---
 1|中国孩子|周云蓬|2007|[仅登录可见](https://music.douban.com/subject/2121986/)
-
-{: # .display}
+{: #music .display}
 
 
 ### 电影/电视剧
