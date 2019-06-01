@@ -6,6 +6,15 @@ layout: default
 
 #### （收录说明：已删除/非登录不可见/不收录）
 
+### 音乐
+
+编号|名字|演唱者（表演者）|发行时间|状态
+---|---|---|---|---
+1|中国孩子|周云蓬|2007|[仅登录可见](https://music.douban.com/subject/2121986/)
+
+{: # .display}
+
+
 ### 电影/电视剧
 
 编号|电影/电视剧|年代|导演|IMDB
@@ -88,7 +97,7 @@ layout: default
 76|[未来岁月（此去经年）](https://webcache.googleusercontent.com/search?q=cache:3sKizDxkdj4J:https://movie.douban.com/subject/30240304)|2019|西蒙·赛伦·琼斯（Simon Cellan Jones）|[Years and Years](https://www.imdb.com/title/tt8694364/)
 {: #movie .display}
 
-### 参考资料
+#### 参考资料
 
 1. [品葱：有哪些豆瓣上不存在（被封杀）的电影名单？](https://www.pin-cong.com/p/46356/?s=52259)
 2. [维基百科：中华人民共和国被禁影视作品列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A2%AB%E7%A6%81%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
@@ -172,4 +181,12 @@ layout: default
         "paging": false,
       });
     } );
+  </script>
+  
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#music').DataTable({
+        "paging": false,
+      });
+    }  );
   </script>
