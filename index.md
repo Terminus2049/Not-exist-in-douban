@@ -22,7 +22,7 @@ layout: default
 2|1987：黎明到来的那一天|2017|Joon-Hwan Jang|[1987: When the Day Comes](https://www.imdb.com/title/tt6493286/)
 3|樹大招風|2016|許學文、歐文傑、黃偉傑|[Trivisa](https://www.imdb.com/title/tt4379800/)
 4|凛冬烈火：乌克兰为自由而战|2016|叶夫根尼·艾菲尼夫斯基|[Winter on Fire: Ukraine's Fight for Freedom](https://www.imdb.com/title/tt4908644/)
-5|悲兮魔兽|2015|赵亮|[Plastic China](https://www.imdb.com/title/tt4901304/)
+5|悲兮魔兽|2015|赵亮|[Behemoth](https://www.imdb.com/title/tt4901304/)
 6|天注定|2013|贾樟柯|[A Touch of Sin](https://www.imdb.com/title/tt2852400/)
 7|昂山素季|2011|吕克贝松|[The Lady](https://www.imdb.com/title/tt1802197/)
 8|夹边沟|2010|王兵|[The Ditch](https://www.imdb.com/title/tt1723112/)
