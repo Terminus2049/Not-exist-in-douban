@@ -11,6 +11,7 @@ layout: default
 编号|名字|演唱者（表演者）|发行时间|状态
 ---|---|---|---|---
 1|中国孩子|周云蓬|2007|[仅登录可见](https://music.douban.com/subject/2121986/)
+2|[达明一派Tat Ming Pair)](https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE)组合|刘以达、晃耀明|1980年代|[条目删除](https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE)
 {: #music .display}
 
 
