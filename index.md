@@ -158,6 +158,7 @@ layout: default
 49|東突厥斯坦獨立運動：1930年代至1940年代|香港中文大學出版社|王柯|9789629965006
 50|她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
 51|The Great Firewall of China:How to Build and Control an Alternative Version of the Internet|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
+52|[邊境線：中國內陸邊疆旅行記](https://www.books.com.tw/products/0010781279)|遠足文化|柴春芽|[9789578630215](https://book.douban.com/subject/30127513)
 {: #book .display}
 
 
