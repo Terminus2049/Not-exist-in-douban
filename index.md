@@ -159,7 +159,7 @@ layout: default
 50|她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路|八旗文化|趙思樂|9789869516884
 51|The Great Firewall of China:How to Build and Control an Alternative Version of the Internet|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
 52|[邊境線：中國內陸邊疆旅行記](https://www.books.com.tw/products/0010781279)|遠足文化|柴春芽|[9789578630215](https://book.douban.com/subject/30127513)
-53|[中国米兔志](https://book.douban.com/subject/34811123/)|豆瓣不收录|中国米兔志编辑组|[E80339D1](https://libgen.is/book/index.php?md5=D65E91B6371965AD1A5DBBA631BDD915)
+53|[中国米兔志](https://book.douban.com/subject/34811123/)|中国米兔志编辑组|周仪主编|[豆瓣不收录，请看libgen](https://libgen.is/book/index.php?md5=D65E91B6371965AD1A5DBBA631BDD915)
 {: #book .display}
 
 
