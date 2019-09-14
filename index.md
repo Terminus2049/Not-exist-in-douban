@@ -11,7 +11,7 @@ layout: default
 编号|名字|演唱者（表演者）|发行时间|状态
 ---|---|---|---|---
 1|中国孩子|周云蓬|2007|[仅登录可见](https://music.douban.com/subject/2121986/)
-2|[达明一派(Tat Ming Pair)组合](https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE)|刘以达、晃耀明|1980年代|[条目删除](https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE)
+2|[达明一派（Tat Ming Pair）组合](https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE)|刘以达、晃耀明|1980年代|[条目删除](https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE)
 {: #music .display}
 
 
@@ -30,24 +30,24 @@ layout: default
 9|被出賣的台灣|2009|Adam Kane|[Formosa Betrayed](https://www.imdb.com/title/tt1121786/)
 10|春风沉醉的夜晚|2009|娄烨|[Spring Fever](https://www.imdb.com/title/tt1422119/)
 11|苹果|2007|李玉|[Lost in Beijing](https://www.imdb.com/title/tt0949489/)
-12|华丽的假期|2007|‎金志勋|[May 18](https://www.imdb.com/title/tt0800341/)
+12|华丽的假期|2007|金志勋|[May 18](https://www.imdb.com/title/tt0800341/)
 13|颐和园|2006|娄烨|[Summer Palace](https://www.imdb.com/title/tt0794374/)
 14|丑角登场|2004|崔子恩|[Enter the Clowns](https://www.imdb.com/title/tt0387120/)
-15|盲井|2003|‎李杨|[Blind Shaft](https://www.imdb.com/title/tt0351299/)
+15|盲井|2003|李杨|[Blind Shaft](https://www.imdb.com/title/tt0351299/)
 16|任逍遥|2002|贾樟柯|[Unknown Pleasures](https://www.imdb.com/title/tt0318025/)
 17|旧约|2002|崔子恩|[The Old Testament](https://www.imdb.com/title/tt1918883/)
 18|安阳婴儿|2001|王超|[The Orphan of Anyang](https://www.imdb.com/title/tt0285848/)
 19|北纬38度线|2000|韦廉、石伟等|[Northern Limit Line](https://www.imdb.com/title/tt4696222/)
 20|天浴|1998|陈冲|[Xiu Xiu: The Sent Down Girl](https://www.imdb.com/title/tt0115005/)
 21|红色角落|1997|乔恩·阿维奈|[Red Corner](https://www.imdb.com/title/tt0119994/)
-22|天安门‎|1996|‎卡玛|[The Gate of Heavenly Peace](https://www.imdb.com/title/tt0113147/)
+22|天安门|1996|卡玛|[The Gate of Heavenly Peace](https://www.imdb.com/title/tt0113147/)
 23|扁担·姑娘|1996|王小帅|[So Close to Paradise](https://www.imdb.com/title/tt0200486/)
 24|迷岸|1996|于晓洋|
 25|巫山云雨|1996|章明|[Rain Clouds over Wushan](https://www.imdb.com/title/tt0118199/)
 26|桃花满天红|1995|王新生|[Tao hua man tian hong](https://www.imdb.com/title/tt0386814/)
 27|裸血|1995|高子沣|[Naked Blood](https://www.imdb.com/title/tt0217679/)
 28|蓝风筝|1993|田壮壮|[The Blue Kite](https://www.imdb.com/title/tt0107358/)
-29|省港旗兵4：地下通道|1990|麦当杰|[Long Arm of the Law: Part 4](https://www.imdb.com/title/tt0103162/)
+29|省港旗兵 4：地下通道|1990|麦当杰|[Long Arm of the Law: Part 4](https://www.imdb.com/title/tt0103162/)
 30|特别手术室|1988|田壮壮|[Unforgettable Life](https://www.imdb.com/title/tt0470549/)
 31|挖掘机|2017|李柱亨|[Fork Lane](https://www.imdb.com/title/tt7506740/)
 32|厉害了，我的国|2018|卫铁|[Amazing China](https://www.imdb.com/title/tt8081062/)
@@ -110,7 +110,7 @@ layout: default
 ---|---|---|---|---
 01|江上的母親|南方家園文化|野夫|9789868279551
 02|一滴淚：從肅反到文革的回憶|允晨文化|巫宁坤|9789867178398
-03|上海生死劫（生死在上海/[*Life and Death in Shanghai*](https://www.goodreads.com/book/show/537404.Life_and_Death_in_Shanghai)）|百家出版社|郑念（译者：方耀君、郑培君、方耀楣）|7900000011
+03|上海生死劫/生死在上海（[*Life and Death in Shanghai*](https://www.goodreads.com/book/show/537404.Life_and_Death_in_Shanghai)）|百家出版社|郑念（译者：方耀君、郑培君、方耀楣）|7900000011
 04|牛鬼蛇神录：文革囚禁中的精灵（The Captive Spirits）|香港牛津大学出版社|杨小凯|9780195865226
 05|纳粹德国的腐败与反腐|译林出版社|弗兰克·巴约尔（译者：陆大鹏）|9787544754750
 06|违宪审查与民主制的平衡：一项比较研究|中国社会科学出版社|翟桔红|9787516113943
@@ -118,12 +118,12 @@ layout: default
 08|往事并不如烟|人民文学出版社|章怡和|9787020044405
 09|伶人往事|湖南文艺出版社|章怡和|9787540438173
 10|历史学的境界|广西师范大学出版社|高华|9787549571413
-11|身份和差異：1945-1965年中國社會的政治分層|香港中文大學香港亞太研究所|高華|9789624417173
+11|身份和差異：1945-1965 年中國社會的政治分層|香港中文大學香港亞太研究所|高華|9789624417173
 12|走出帝制：从晚清到民国历史的回望|群言出版社|秦晖|9787802569027
 13|巨婴国|浙江人民出版社|武志红|9787213076824
 14|大路：高速中国里的工地纪事|广西师范大学出版社|张赞波|9787549573806
 15|天葬：西藏的命运|大塊文化|王力雄|[9789862131077](https://www.goodreads.com/book/show/9335765)
-16|失落的一代：中国的上山下乡运动·1968-1980（*The Lost Generation: The Rustification of Chinese Youth (1968-1980)*）|中国大百科全书出版社|潘鸣啸[法]/欧阳因 译|9787500082545
+16|失落的一代：中国的上山下乡运动·1968-1980（*The Lost Generation: The Rustification of Chinese Youth(1968-1980)* ）|中国大百科全书出版社|潘鸣啸[法]/欧阳因 译|9787500082545
 17|我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）|麥田出版|芭芭拉·德米克 Barbara Demick/黃煜文 譯|9789861207896
 18|历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457
 19|大江大海：一九四九|天下雜誌|龍應台|9789862410493
@@ -161,6 +161,9 @@ layout: default
 51|The Great Firewall of China:How to Build and Control an Alternative Version of the Internet|Zed Books|James Griffiths|[1786995352](https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china)
 52|[邊境線：中國內陸邊疆旅行記](https://www.books.com.tw/products/0010781279)|遠足文化|柴春芽|[9789578630215](https://book.douban.com/subject/30127513)
 53|[中国米兔志](https://book.douban.com/subject/34811123/)|中国米兔志编辑组|周仪主编|[豆瓣不收录，请看libgen](https://libgen.is/book/index.php?md5=D65E91B6371965AD1A5DBBA631BDD915)
+54|[香港简史](https://book.douban.com/subject/24855510/) |香港中華書局|高馬可|豆瓣 [9789888263202](https://book.douban.com/subject/24855510/)
+55|A Concise History of Hong Kong |Rowman & Littlefield Publishers, Inc.|John M. Carroll|豆瓣[链接](https://book.douban.com/subject/2427184/)
+56|Capitalism with Chinese Characteristics| CambridgeUniversityPress|Yasheng Huang|豆瓣已删除 [9780521898102](https://book.douban.com/subject/2427184/)
 {: #book .display}
 
 
