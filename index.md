@@ -164,6 +164,9 @@ layout: default
 54|[香港简史](https://book.douban.com/subject/24855510/) |香港中華書局|高馬可|豆瓣 [9789888263202](https://book.douban.com/subject/24855510/)
 55|A Concise History of Hong Kong |Rowman & Littlefield Publishers, Inc.|John M. Carroll|豆瓣[链接](https://book.douban.com/subject/2427184/)
 56|Capitalism with Chinese Characteristics| CambridgeUniversityPress|Yasheng Huang|豆瓣已删除 [9780521898102](https://book.douban.com/subject/2427184/)
+57|盛世| 麥田 |陳冠中|9789861735795
+58|與中國打交道：美國前財長鮑爾森的二十年內幕觀察| 時報出版 |亨利．鮑爾森(Henry M. Paulson)|9789571368696 [条目删除](https://book.douban.com/subject/27010498/)
+59|尘世·挽歌| 新星出版社 |野夫|9787802258990 [条目删除](https://book.douban.com/subject/4809777/)
 {: #book .display}
 
 
@@ -188,7 +191,7 @@ layout: default
       });
     } );
   </script>
-  
+
   <script type="text/javascript">
     $(document).ready(function() {
       $('#music').DataTable({
