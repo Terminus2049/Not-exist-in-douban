@@ -125,7 +125,7 @@ layout: default
 15|天葬：西藏的命运|大塊文化|王力雄|[9789862131077](https://www.goodreads.com/book/show/9335765)
 16|失落的一代：中国的上山下乡运动·1968-1980（*The Lost Generation: The Rustification of Chinese Youth(1968-1980)* ）|中国大百科全书出版社|潘鸣啸[法]/欧阳因 译|9787500082545
 17|我們最幸福：北韓人民的真實生活（*Nothing to Envy: Ordinary Lives in North Korea*）|麥田出版|芭芭拉·德米克 Barbara Demick/黃煜文 譯|9789861207896
-18|历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457
+18|历史的先声：半个世纪前的庄严承诺|汕头大学出版社|笑蜀|9787810363457 [条目删除](http://www.douban.com/subject/3149832/)
 19|大江大海：一九四九|天下雜誌|龍應台|9789862410493
 20|灵山|联经出版公司|高行健|[9789570836899](https://www.goodreads.com/book/show/14733840)
 21|一个人的圣经（[One Man's Bible](https://book.douban.com/subject/10548707/)）|联经出版公司|高行健|9570819413
@@ -167,6 +167,8 @@ layout: default
 57|盛世| 麥田 |陳冠中|9789861735795
 58|與中國打交道：美國前財長鮑爾森的二十年內幕觀察| 時報出版 |亨利．鮑爾森(Henry M. Paulson)|9789571368696 [条目删除](https://book.douban.com/subject/27010498/)
 59|尘世·挽歌| 新星出版社 |野夫|9787802258990 [条目删除](https://book.douban.com/subject/4809777/)
+60|过去与未来之间| 译林出版社 |汉娜·阿伦特(Hannah Arendt)|9787544720779 [条目删除](https://book.douban.com/subject/6540232/)
+61|The Shanghai Free Taxi| W&N |Frank Langfitt|9781474612319 [条目删除](https://book.douban.com/subject/30479822/)
 {: #book .display}
 
 
