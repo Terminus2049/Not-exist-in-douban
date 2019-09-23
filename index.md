@@ -96,6 +96,7 @@ layout: default
 75|凶年之畔|2017|黄闻海|[We the Workers](https://www.imdb.com/title/tt6433144/)
 76|[未来岁月（此去经年）](https://webcache.googleusercontent.com/search?q=cache:3sKizDxkdj4J:https://movie.douban.com/subject/30240304)|2019|西蒙·赛伦·琼斯（Simon Cellan Jones）|[Years and Years](https://www.imdb.com/title/tt8694364/)
 77|自助洗衣店（The Laundromat）|2019|史蒂文·索德伯格（Steven Soderbergh）|[The Laundromat](https://www.imdb.com/title/tt5865326/)
+78|返校|2019|徐漢強|[返校](https://www.imdb.com/title/tt10805432/)
 {: #movie .display}
 
 #### 参考资料
