@@ -14,6 +14,9 @@ layout: default
 2|[达明一派（Tat Ming Pair）组合](https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE)|刘以达、晃耀明|1980年代|[条目删除](https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE)
 {: #music .display}
 
+#### 待办事项
+- 李志所有歌曲遭封
+- 反送中起, 抗争相关歌曲遭封
 
 ### 电影/电视剧
 
