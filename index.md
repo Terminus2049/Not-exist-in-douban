@@ -97,6 +97,8 @@ layout: default
 76|[未来岁月（此去经年）](https://webcache.googleusercontent.com/search?q=cache:3sKizDxkdj4J:https://movie.douban.com/subject/30240304)|2019|西蒙·赛伦·琼斯（Simon Cellan Jones）|[Years and Years](https://www.imdb.com/title/tt8694364/)
 77|自助洗衣店（The Laundromat）|2019|史蒂文·索德伯格（Steven Soderbergh）|[The Laundromat](https://www.imdb.com/title/tt5865326/)
 78|返校|2019|徐漢強|[返校](https://www.imdb.com/title/tt10805432/)
+79|南方公园|1997|Trey Parker, Matt Stone, Brian Graden|[South Park](https://www.imdb.com/title/tt0121955/)
+80|南方公园 电影版|1999|Trey Parker|[South Park: Bigger, Longer & Uncut](https://www.imdb.com/title/tt0158983/)
 {: #movie .display}
 
 #### 参考资料
