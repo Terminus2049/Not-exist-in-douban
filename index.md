@@ -171,7 +171,7 @@ layout: default
 58|與中國打交道：美國前財長鮑爾森的二十年內幕觀察| 時報出版 |亨利．鮑爾森(Henry M. Paulson)|9789571368696 [条目删除](https://book.douban.com/subject/27010498/)
 59|尘世·挽歌| 新星出版社 |野夫|9787802258990 [条目删除](https://book.douban.com/subject/4809777/)
 60|过去与未来之间| 译林出版社 |汉娜·阿伦特(Hannah Arendt)|9787544720779 [条目删除](https://book.douban.com/subject/6540232/)
-61|The Shanghai Free Taxi| W&N |Frank Langfitt|9781474612319 [条目删除](https://book.douban.com/subject/30479822/)
+
 {: #book .display}
 
 
