@@ -102,6 +102,7 @@ layout: default
 81|南方公园电影版：南方四贱客|1999|Trey Parker|[South Park: Bigger, Longer & Uncut](https://www.imdb.com/title/tt0158983/)
 82|[蝴蝶（2004）](https://movie.douban.com/subject/1292331/)|2004|麦婉欣|[Butterfly](https://www.imdb.com/title/tt0440939/),登录豆瓣可见
 83|[少年小赵](https://movie.douban.com/subject/26331957/)|2005|杜海滨|[A Young Patriot](https://www.imdb.com/title/tt4079566/)，豆瓣仅登录可见
+84|[他们在毕业的前一天爆炸全2季](https://movie.douban.com/subject/4861417/)|2010|郑有杰|[Days We Stared at the Sun](https://www.imdb.com/title/tt1813893/)
 {: #movie .display}
 
 #### 参考资料
