@@ -104,6 +104,7 @@ layout: default
 83|[少年小赵](https://movie.douban.com/subject/26331957/)|2005|杜海滨|[A Young Patriot](https://www.imdb.com/title/tt4079566/)，豆瓣仅登录可见
 84|[他们在毕业的前一天爆炸全2季](https://movie.douban.com/subject/4861417/)|2010|郑有杰|[Days We Stared at the Sun](https://www.imdb.com/title/tt1813893/)
 85|大同（中国市长）|2015|周浩|[Datong](https://www.imdb.com/title/tt4056808/)
+86|斯卡罗|2021|曹瑞原|[Seqalu Formosa 1867](https://www.imdb.com/title/tt15207176/)
 
 {: #movie .display}
 
